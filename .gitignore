@@ -1,0 +1,18 @@
+# Pastas de IDE/Editor
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente
+.env
+.env.*
+
+# Arquivos gerados
+vendas_baguncadas.xlsx
+vendas_limpas.xlsx
+relatorio_faturamento.pdf
